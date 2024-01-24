@@ -1,4 +1,5 @@
 import Header from './components/Header'
+import Main from './components/Main'
 
 function App() {
   return (
@@ -7,7 +8,8 @@ function App() {
 
       </div>
       <div className="container">
-        <Header></Header>
+        <Header/>
+        <Main />
       </div>
     </>
       
