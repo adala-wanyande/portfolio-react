@@ -1,9 +1,14 @@
-
 function App() {
   return (
-    <div className="App">
-      Hello Adala!
-    </div>
+    <>
+      <div className="background-overlay">
+
+      </div>
+      <div className="container">
+        
+      </div>
+    </>
+      
   );
 }
 
