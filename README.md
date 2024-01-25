@@ -1,3 +1,4 @@
+The deployed site can be accessed here: https://adala-wanyande.github.io/portfolio-react
 # Q&A
 ## What is NPM?
 NPM (Node Package Manager) is a package manager for JavaScript, primarily used to install and manage dependencies in Node.js projects. It provides a large repository of JavaScript packages, enabling developers to share and reuse code easily. NPM also offers version control and dependency management, simplifying the development process for JavaScript applications.
