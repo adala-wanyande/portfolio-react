@@ -2,6 +2,7 @@ import React from 'react'
 import About from './About'
 import Experience from './Experience'
 import Projects from './Projects'
+import Joke from './Joke'
 
 const Main = () => {
   return (
@@ -9,6 +10,7 @@ const Main = () => {
         <About/>                 
         <Experience/>
         <Projects/>
+        <Joke/>
     </main>
   )
 }
