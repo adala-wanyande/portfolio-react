@@ -21,9 +21,10 @@ const Joke = () => {
   }
 
   return (
-    <div>
-      <p>{joke}</p>
-      <button onClick={() => {
+    <div className='overlay'>
+      <p className="project-title">Chuck Norris Jokes</p>
+      <p className='section'>{joke}</p>
+      <div className='overlay' onClick={() => {
         setIsLoading(true);
         fetch('https://api.chucknorris.io/jokes/random')
           .then(response => response.json())
@@ -32,7 +33,7 @@ const Joke = () => {
           .finally(() => setIsLoading(false));
       }}>
         Get another joke!
-      </button>
+      </div>
     </div>
   );
 };

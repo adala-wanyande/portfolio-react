@@ -404,3 +404,11 @@ nav ul li.focused a span {
 .project-links:hover {
     color: #C0CCDA;
 }
+
+.joke {
+    margin: 8px 8px;
+}
+
+.joke-container {
+    margin-bottom: 40px;
+}
