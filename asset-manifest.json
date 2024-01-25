@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/adala-wanyande/portfolio-react/static/css/main.e88b957e.css",
+    "main.js": "/adala-wanyande/portfolio-react/static/js/main.3847dcc1.js",
+    "index.html": "/adala-wanyande/portfolio-react/index.html",
+    "main.e88b957e.css.map": "/adala-wanyande/portfolio-react/static/css/main.e88b957e.css.map",
+    "main.3847dcc1.js.map": "/adala-wanyande/portfolio-react/static/js/main.3847dcc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e88b957e.css",
+    "static/js/main.3847dcc1.js"
+  ]
+}
